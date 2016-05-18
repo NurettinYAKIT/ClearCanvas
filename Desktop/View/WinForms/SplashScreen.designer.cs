@@ -33,7 +33,8 @@ namespace ClearCanvas.Desktop.View.WinForms
 {
 	partial class SplashScreen
 	{
-		/// <summary>
+        //Bluemed eklendi
+        /// <summary>
 		/// Required designer variable.
 		/// </summary>
 		private System.ComponentModel.IContainer _components = null;

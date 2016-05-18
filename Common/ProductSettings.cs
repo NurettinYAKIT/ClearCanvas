@@ -33,6 +33,8 @@ using ClearCanvas.Common.Utilities;
 
 namespace ClearCanvas.Common
 {
+
+    //Bluemed eklendi
 	[ExtensionOf(typeof (ApplicationRootExtensionPoint))]
 	internal sealed class DumpProductSettingsApplication : IApplicationRoot
 	{

@@ -59,7 +59,7 @@ namespace ClearCanvas.Desktop
 	}
 
 	#endregion
-
+    //Bluemed eklendi
 	/// <summary>
 	/// Represents a desktop window (an application main window).
 	/// </summary>
