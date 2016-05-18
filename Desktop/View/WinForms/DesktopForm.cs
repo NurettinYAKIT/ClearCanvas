@@ -92,6 +92,9 @@ namespace ClearCanvas.Desktop.View.WinForms
 			ToolStripSettings.Default.PropertyChanged += OnToolStripSettingsPropertyChanged;
 			OnToolStripSettingsPropertyChanged(ToolStripSettings.Default, new PropertyChangedEventArgs("WrapLongToolstrips"));
 			OnToolStripSettingsPropertyChanged(ToolStripSettings.Default, new PropertyChangedEventArgs("IconSize"));
+
+            this.Text = "Osman";
+            
         }
 
         #region Public properties

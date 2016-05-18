@@ -179,6 +179,8 @@ namespace ClearCanvas.Desktop.View.WinForms
             this._layoutTable.PerformLayout();
             this.ResumeLayout(false);
 
+            this.Text = " Osman ";
+
         }
 
         #endregion

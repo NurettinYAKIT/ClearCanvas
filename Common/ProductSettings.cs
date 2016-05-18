@@ -401,7 +401,8 @@ namespace ClearCanvas.Common
 		/// <param name="includeRelease">A value indicating whether or not to include the release type in the name.</param>
 		public static string GetName(bool includeEdition, bool includeRelease)
 		{
-			return Concatenate(Name, GetNameSuffix(includeEdition, includeRelease));
+            return " Bluemed PACS";
+			//return Concatenate(Name, GetNameSuffix(includeEdition, includeRelease));
 		}
 
 		/// <summary>

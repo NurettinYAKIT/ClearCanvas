@@ -461,7 +461,7 @@ namespace ClearCanvas.Desktop
 
 		#region Title
 
-		internal static readonly string LabelModifiedInstallation = "Modified Installation";
+		internal static readonly string LabelModifiedInstallation = "Bluemed Installation";
 
 		private static string DefaultBaseTitle
 		{
